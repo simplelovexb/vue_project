@@ -4,7 +4,6 @@
       <div class="avatar">
         <img width="64" height="64" :src="seller.avatar">
       </div>
-
       <div class="content">
         <div class="title">
           <span class="brand"></span>
@@ -60,7 +59,7 @@ export default {
 }
 </script>
 
-<style lang="stylus" rel='stylesheet/stylus'>
+<style lang="stylus" rel="stylesheet/stylus">
 @import '~common/stylus/mixin';
 @import '~common/stylus/variable';
 
